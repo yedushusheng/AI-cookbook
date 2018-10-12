@@ -18,3 +18,7 @@
 3. Boosting
   3.1 定义
   3.2 算法实现
+  
+4. 偏差(Bias)、方差(Variance)
+  4.1 偏差与方差
+  4.2 Bagging与Boosting直观理解
